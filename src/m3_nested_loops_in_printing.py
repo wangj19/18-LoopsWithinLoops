@@ -175,7 +175,7 @@ def decreasing_exclamation_marks(m, n):
     #   would defeat the goal of providing practice at loops within loops.
     # ------------------------------------------------------------------
 
-
+ 
 def run_test_alternating_brackets():
     """ Tests the    alternating_brackets    function. """
     print()
